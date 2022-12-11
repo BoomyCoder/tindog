@@ -218,11 +218,12 @@ padding: 3% 2%;
 }
 }
 
-/* @media (max-width: 575px) {
+@media (max-width: 991px) {
   .title-image {
-    text-align: center;
+    position: relative;
+    left: -10px;
   }
-} */
+}
 
 /* footer buttons */
 
