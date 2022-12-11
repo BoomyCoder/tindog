@@ -1,0 +1,246 @@
+
+body {
+  font-family: 'Montserrat';
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+
+
+#container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.cta-text {
+  color: white;
+}
+
+.dog-chicks {
+  width: 25%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.download-buttons {
+  margin: 5% 3% 5% 0%;
+}
+
+.dozer-dog {
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+}
+
+#footer {
+  text-align: center;
+  padding: 1%;
+}
+
+.footer-icons {
+  margin: 3%;
+}
+
+.footer-section {
+  background-color: #ff4c68;
+  text-align: center;
+  padding: 5%;
+
+}
+
+.frito {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#google-button {
+  color: black;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.grid-container {
+  display: inline-grid;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+.price-section {
+  text-align: center;
+}
+
+#second-button:hover {
+background-color: white;
+color: black;
+}
+
+
+
+.navbar {
+  padding: 0 0 4.5rem;
+  margin-bottom: 80px;
+}
+
+#navtextcolor {
+  color: white;
+
+}
+
+.nav-item {
+padding: 0 18px;
+
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "monsterrat-light";
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing {
+  padding: 100px;
+}
+
+.pricing-column {
+padding: 3% 2%;
+}
+
+
+
+
+
+#second-button {
+  color: white;
+  border-color: white;
+
+}
+
+.simba-pic {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+
+#testimonials {
+
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+
+}
+
+.testimonial-img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+
+
+#tindog {
+  font-size: 40px;
+  font-family: 'Ubuntu';
+  color: white;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: relative;
+  left: 15%;
+
+}
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+.title-image {
+  transform: rotate(0);
+}
+}
+
+/* @media (max-width: 575px) {
+  .title-image {
+    text-align: center;
+  }
+} */
+
+/* footer buttons */
+
+.fa-twitter {
+  padding: 1%;
+}
+.fa-facebook {
+  padding: 1%;
+}
+
+.fa-instagram {
+  padding: 1%;
+}
+
+.fa-envelope {
+  padding: 1%;
+}
+
+.copy {
+  padding-top: 2%;
+}
